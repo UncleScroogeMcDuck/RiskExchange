@@ -85,7 +85,7 @@ RiskExchange is an open platform which can be used for DeFi coverage and also he
 
 ## Feedback
 
-https://mutualdao.org
+https://github.com/UncleScroogeMcDuck/RiskExchange
 
 
 
