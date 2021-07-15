@@ -1,22 +1,25 @@
 # RiskExchange Lightpaper
 
 Name: RiskExchange Protocol
+
 SmartContract: EVM Solidity
+
 Version: 0.9
 
 ## Problem
 
-1 Provide decentralized insurance to crypto users, including coverage of DeFi and others
-2 Let the market define the price of risk instead of a centralized actuary
+1.Provide decentralized insurance to crypto users, including coverage of DeFi and others
+2.Let the market define the price of risk instead of a centralized actuary
 
 ## Innovation
 
 There are several interesting experiments in this area, such as Nexus Mutual and Cover Protocol.
 The innovations of RiskExchange Protocol are:
-1 It is perpetual cover
-2 It covers multiple DeFi products in once
-3 It use re-balance method which simplified the  process and reduce gas cost
-4 Its pay as you go for coverage seekers
+
+1.It is perpetual cover
+2.It covers multiple DeFi products in once
+3.It use re-balance method which simplified the  process and reduce gas cost
+4.Its pay as you go for coverage seekers
 
 ## Overview
 
@@ -25,9 +28,9 @@ The innovations of RiskExchange Protocol are:
 
 ## Roles
 
-1 Liquidity Providers - seek for LP reward and swap fee
-2 Coverage Seekers - seek for insurance
-3 Prediction Market Users - take risk and seek for arbitrage
+1.Liquidity Providers - seek for LP reward and swap fee
+2.Coverage Seekers - seek for insurance
+3.Prediction Market Users - take risk and seek for arbitrage
 
 ## How it works
 
@@ -61,9 +64,9 @@ If the claim request got approved, requestor's SAFU token will be burned, and re
 ## Governance
 
 Governance is more focused on 3 areas:
-1 Protocol upgrade
-2 Coverage changes
-3 Claim requests
+1.Protocol upgrade
+2.Coverage changes
+3.Claim requests
 
 There will be 2 level of governance. Council team will be elected first to filter the requests for the first round.
 
@@ -73,11 +76,9 @@ There will be 2 level of governance. Council team will be elected first to filte
 
 ### Prevent adverse selection
 
-1 There will be 30 days probation period for all SAFU holders, which means he need to hold SAFU tokens for more than 30 days if not, the claim process will be rejected.
-
-2 Claim date is limited, requestor cannot claim for risks 1 month ago
-
-3 Pledge is needed for all claims
+1.There will be 30 days probation period for all SAFU holders, which means he need to hold SAFU tokens for more than 30 days if not, the claim process will be rejected.
+2.Claim date is limited, requestor cannot claim for risks 1 month ago
+3.Pledge is needed for all claims
 
 ### More Scenario
 
